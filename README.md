@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://drive.google.com/file/d/1j-JoHzNZnNB9Zdoxbqeiq5yKU-8LBG6r/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href='https://drive.google.com/file/d/1j-JoHzNZnNB9Zdoxbqeiq5yKU-8LBG6r/view?usp=sharing'>Video Walkthrough</a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
